@@ -5,17 +5,71 @@
         "cfp_open": false,
         "city": null,
         "country": null,
-        "end_date": "2021-09-21",
+        "end_date": "2021-12-06",
+        "kind": "conference",
+        "location": null,
+        "name": "PyCon Tanzania",
+        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
+        "start_date": "2021-12-01",
+        "state": null,
+        "tags": [
+            "python"
+        ],
+        "url": "http://pycon.or.tz/"
+    },
+    {
+        "by": "bot",
+        "cfp_end_date": "1970-01-01",
+        "cfp_open": false,
+        "city": null,
+        "country": null,
+        "end_date": "2021-12-05",
+        "kind": "conference",
+        "location": "Online",
+        "name": "FlaskCon 2021 Online",
+        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
+        "start_date": "2021-12-01",
+        "state": null,
+        "tags": [
+            "python"
+        ],
+        "url": "https://flaskcon.com/y/2021/"
+    },
+    {
+        "by": "bot",
+        "cfp_end_date": "1970-01-01",
+        "cfp_open": false,
+        "city": null,
+        "country": null,
+        "end_date": "2021-12-04",
+        "kind": "conference",
+        "location": "Online",
+        "name": "PyCode Conference",
+        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
+        "start_date": "2021-12-02",
+        "state": null,
+        "tags": [
+            "python"
+        ],
+        "url": "https://pycode-conference.org/"
+    },
+    {
+        "by": "bot",
+        "cfp_end_date": "1970-01-01",
+        "cfp_open": false,
+        "city": null,
+        "country": null,
+        "end_date": "2021-12-06",
         "kind": "conference",
         "location": "online",
-        "name": "PyCon India 2021",
+        "name": "PyCon Indonesia 2021",
         "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-09-17",
+        "start_date": "2021-12-04",
         "state": null,
         "tags": [
             "python"
         ],
-        "url": "https://in.pycon.org/2021/"
+        "url": "https://pycon.id/"
     },
     {
         "by": "bot",
@@ -23,161 +77,17 @@
         "cfp_open": false,
         "city": null,
         "country": null,
-        "end_date": "2021-09-20",
-        "kind": "conference",
-        "location": "On line",
-        "name": "PyWeek 32",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-09-19",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": "https://pyweek.org/32/"
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-10-04",
+        "end_date": "2021-12-06",
         "kind": "conference",
         "location": "Online",
-        "name": "PyConTW 2021",
+        "name": "Pyjamas Conf 2021",
         "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-10-02",
+        "start_date": "2021-12-04",
         "state": null,
         "tags": [
             "python"
         ],
-        "url": "https://tw.pycon.org/2021/en-us/"
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-10-09",
-        "kind": "conference",
-        "location": "Online",
-        "name": "PyCon ZA 2021",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-10-07",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": "https://za.pycon.org/"
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-10-23",
-        "kind": "conference",
-        "location": "online",
-        "name": "PyCon Sweden 2021",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-10-21",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": null
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-11-01",
-        "kind": "conference",
-        "location": "Online",
-        "name": "Plone Conference 2021 Online",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-10-23",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": "https://2021.ploneconf.org/"
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-10-31",
-        "kind": "conference",
-        "location": "Online",
-        "name": "PyData Global 2021",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-10-28",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": "https://pydata.org/global2021/"
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-11-08",
-        "kind": "conference",
-        "location": "On line",
-        "name": "PyCon Chile",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-11-05",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": "https://pycon.cl/"
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-11-24",
-        "kind": "conference",
-        "location": "Bangkok, Thailand and online",
-        "name": "PyCon APAC 2021",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-11-19",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": "https://th.pycon.org/"
-    },
-    {
-        "by": "bot",
-        "cfp_end_date": "1970-01-01",
-        "cfp_open": false,
-        "city": null,
-        "country": null,
-        "end_date": "2021-11-25",
-        "kind": "conference",
-        "location": "Online (Israel)",
-        "name": "Xtreme Python",
-        "source": "https://wiki.python.org/moin/PythonEventsCalendar",
-        "start_date": "2021-11-24",
-        "state": null,
-        "tags": [
-            "python"
-        ],
-        "url": "https://xtremepython.dev/"
+        "url": "https://pyjamas.live/"
     },
     {
         "by": "bot",
@@ -242,7 +152,7 @@
         "end_date": "2022-06-06",
         "kind": "conference",
         "location": "Florence, Italy",
-        "name": "PyCon Italy 12",
+        "name": "PyCon Italy 22",
         "source": "https://wiki.python.org/moin/PythonEventsCalendar",
         "start_date": "2022-06-02",
         "state": null,
